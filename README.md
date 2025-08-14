@@ -61,8 +61,11 @@ These insights can guide **traffic authorities** to take targeted, data-driven a
 
 📦 Road_Accident_Analysis_India
 ┣ 📜 analysis.ipynb # Jupyter Notebook with analysis code
+
 ┣ 📜 road_accident_data.csv # Dataset
+
 ┣ 📜 README.md # Project Documentation
+
 ┗ 📜 requirements.txt # Python dependencies
 
 
