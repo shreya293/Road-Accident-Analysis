@@ -6,6 +6,7 @@ Using **Python, Pandas, Matplotlib, and Seaborn**, the data is cleaned, analyzed
 
 Dataset Source: [data.gov.in - Road Accidents in India 2020](https://data.gov.in/catalog/road-accidents-india-2020)  
 Dataset Link: [Download Here](https://drive.google.com/file/d/1ft84zICATQqhB1egy4DQJs4bIckcA-0f/view?usp=sharing)  
+Tableau Dashboard : https://public.tableau.com/app/profile/shreya.singh.chauhan/viz/RoadAccidentsAnalysisDashboard/StatewiseRoadAccidentAnalysis2020?publish=yes
 
 ---
 
